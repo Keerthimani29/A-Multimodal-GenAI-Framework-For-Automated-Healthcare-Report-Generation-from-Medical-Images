@@ -1,0 +1,2 @@
+# A-Multimodal-GenAI-Framework-For-Automated-Healthcare-Report-Generation-from-Medical-Images
+Developed an edge-optimized multimodal AI system integrating a vision encoder and language model to generate structured radiology reports from medical images, while incorporating Explainable AI techniques (attention maps, heatmaps) and enabling offline, multilingual report generation to improve accessibility and support clinical validation.
